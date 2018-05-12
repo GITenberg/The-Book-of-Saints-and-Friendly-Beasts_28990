@@ -1,0 +1,39 @@
+_repo: The-Book-of-Saints-and-Friendly-Beasts_28990
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cory, Fanny Y.
+    aliases:
+    - Cooney, Fanny Young Cory
+    - Cory, F. Y. (Fanny Y.)
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '33622'
+    url: http://www.gutenberg.org/2009/agents/33622
+covers:
+- cover_type: archival
+  image_path: 28990-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Abbie Farwell
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '5282'
+    url: http://www.gutenberg.org/2009/agents/5282
+description: A collection of twenty legends of saints and friendly beasts.
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28990'
+  lccn: 00006882
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Legends'
+- !lcc 'GR'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Folklore'
+title: The Book of Saints and Friendly Beasts
+url: http://www.gutenberg.org/ebooks/28990
