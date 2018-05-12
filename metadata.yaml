@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '5282'
     url: http://www.gutenberg.org/2009/agents/5282
 description: A collection of twenty legends of saints and friendly beasts.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28990#The-Book-of-Saints-and-Friendly-Beasts
 gutenberg_issued: '2009-05-29'
 gutenberg_type: Text
 identifiers:
